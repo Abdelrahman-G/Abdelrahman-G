@@ -20,8 +20,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Postman]([https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717](https://yt3.ggpht.com/a/AGF-l791ySSDFwSHTYVjI0BMuuyqlFmiMutGcvcYcA=s900-c-k-c0xffffffff-no-rj-mo))
-
+![Postman]([https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717])
 
 ##### Some of my favorite open source projects
 
