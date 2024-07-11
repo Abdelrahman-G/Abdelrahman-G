@@ -20,7 +20,8 @@
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Postman]([https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717])
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 ![Ubuntu](![image](https://github.com/Abdelrahman-G/Abdelrahman-G/assets/100715853/8ccb581d-d1a0-4e00-8c34-3c7c8f123a29))
 
 ##### Some of my favorite open source projects
