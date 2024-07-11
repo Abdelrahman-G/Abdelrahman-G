@@ -25,7 +25,7 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 
-##### Some of my favorite open source projects
+--##### Some of my favorite open source projects
 
 [![Money Transaction System](https://img.shields.io/badge/-Money%20Transaction%20System-444444?style=flat&logo=github&logoColor=white)](https://github.com/Abdelrahman-G/Money-Transaction-System)
 [![Othello Game](https://img.shields.io/badge/-Othello%20Game-2C2C2C?style=flat&logo=github&logoColor=white)](https://github.com/Abdelrahman-G/Othello_game)
