@@ -2,7 +2,7 @@
 
 ##### Hi, I'm Abdelrahman:
 
-- 🎓A Senior year at Cairo University Faculty of Computer Science
+- 🎓A Senior student at Cairo University Faculty of Computer Science
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmangomaa3005@gmail.com)
